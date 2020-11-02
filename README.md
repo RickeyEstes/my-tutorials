@@ -7,3 +7,5 @@
 ## [Java Interface Lesson](https://xdvrx1.github.io/java-interface-lesson/)
 
 ## [Dependency Injection Lesson](https://xdvrx1.github.io/dependency-injection-lesson/)
+
+## [Modular Design Lesson](https://xdvrx1.github.io/modular-design-lesson/)
