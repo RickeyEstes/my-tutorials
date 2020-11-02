@@ -5,3 +5,5 @@
 ## [Java Static Members Lesson](https://xdvrx1.github.io/java-static-members-lesson/)
 
 ## [Java Interface Lesson](https://xdvrx1.github.io/java-interface-lesson/)
+
+## [Dependency Injection Lesson](https://xdvrx1.github.io/dependency-injection-lesson/)
