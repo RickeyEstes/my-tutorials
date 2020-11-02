@@ -9,3 +9,5 @@
 ## [Dependency Injection Lesson](https://xdvrx1.github.io/dependency-injection-lesson/)
 
 ## [Modular Design Lesson](https://xdvrx1.github.io/modular-design-lesson/)
+
+## [GitHub Pages Tutorial](https://xdvrx1.github.io/github-pages-tutorial/)
