@@ -12,6 +12,8 @@
 
 ## [GitHub Pages Tutorial](https://xdvrx1.github.io/github-pages-tutorial/)
 
-## [Computer Networking Topics](https://github.com/xdvrx1/computer-networking-topics)
+## [Computer Networking Topics](https://xdvrx1.github.io/computer-networking-topics)
 
 ## [Arduino & Electronics Topics](https://xdvrx1.github.io/arduino-and-electronics-topics/)
+
+## [Java Executable File Tutorial](https://xdvrx1.github.io/java-create-jar-exe-file-tutorial/) 
