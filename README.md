@@ -18,3 +18,5 @@
 ## [Arduino & Electronics Topics](https://xdvrx1.github.io/arduino-and-electronics-topics/)
 
 ## [Java Executable File Tutorial](https://xdvrx1.github.io/java-create-jar-exe-file-tutorial/) 
+
+## [Hacking The GitHub Stats](https://xdvrx1.github.io/hacking-the-github-stats/)
