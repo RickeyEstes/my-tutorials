@@ -20,3 +20,5 @@
 ## [Java Executable File Tutorial](https://xdvrx1.github.io/java-create-jar-exe-file-tutorial/) 
 
 ## [Hacking The GitHub Stats](https://xdvrx1.github.io/hacking-the-github-stats/)
+
+## [Page Metrics Tutorial](https://xdvrx1.github.io/page-metrics-tutorial/)
