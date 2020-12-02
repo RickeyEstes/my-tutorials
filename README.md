@@ -22,3 +22,5 @@
 ## [Hacking The GitHub Stats](https://xdvrx1.github.io/hacking-the-github-stats/)
 
 ## [Page Metrics Tutorial](https://xdvrx1.github.io/page-metrics-tutorial/)
+
+## [Intro To Electronics](https://xdvrx1.github.io/basic-electronics/)
